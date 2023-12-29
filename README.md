@@ -5,8 +5,8 @@ of command
 first run capture tool and select option [1]
 Data capture mode on and run cloning command
 # commands
-cd
+```cd
 clear
 git clone https://github.com/YounisXyz/method_capture
 cd method_capture
-python run.py
+python run.py```
