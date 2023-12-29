@@ -9,4 +9,4 @@ Data capture mode on and run cloning command
 clear
 git clone https://github.com/YounisXyz/method_capture
 cd method_capture
-python run.py```
+python run.py
