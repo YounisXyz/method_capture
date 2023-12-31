@@ -9,7 +9,7 @@ Data capture mode on and run cloning command
 clear
 git clone https://github.com/YounisXyz/method_capture
 cd method_capture
-python run.py
+python run.py```
 
 
 ![Screenshot_2022-08-29-17-44-00-945_com termux](https://github.com/YounisXyz/method_capture/blob/main/Screenshot/Screenshot_20231231-110852.jpg)
